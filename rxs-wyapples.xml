@@ -3,5 +3,5 @@
   <prescription link="/wyapples/rx-jpush" />
   <prescription link="/wyapples/rx-igexin" />
   <prescription link="/wyapples/rx-umeng" />
-  <prescription type="service" sender="any" class="com.amap.api.service.AMapService"/>
+  <prescription type="service" sender="any" class="com.amap.api.service.AMapService" />
 </prescriptions>
